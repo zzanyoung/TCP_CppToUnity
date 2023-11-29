@@ -1,1 +1,0 @@
-g++ TcpServer.cpp -lws2_32 -o TcpServer
